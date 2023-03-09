@@ -16,7 +16,7 @@ The VCM can be used as a general purpose trigger for gating of high-voltage puls
 
 Inputs
 
-1.  Sine Wave +/-5V pk-pk, Up to 99 kHz, resolution 1 Hz.
+1.  Sine Wave +/-5V pk-pk
     Min:  100Hz
     Max:  99 KHz
     Resolution:  1Hz
