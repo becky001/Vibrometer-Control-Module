@@ -7,12 +7,12 @@ The Vibrometer Control Module (VCM) is used to control an Acousto-Optic Modulato
 
 The VCM can be used as a general purpose trigger for gating of high-voltage pulse generators, pulsers and laser diode drivers.
 
-![](VCM_FRONT.jpg)
-![](VCM_BACK.jpg)
+![](VCM Front.jpg)
+![](VCM Back.jpg)
 
 
 
-#Specifications:
+# Specifications:
 
 Inputs
 
